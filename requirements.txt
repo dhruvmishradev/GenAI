@@ -13,6 +13,7 @@ langchain-openai
 langchain-google-genai
 langchain-groq
 langchain-community
+langchain-mistralai
 
 tiktoken
 langchain_huggingface
